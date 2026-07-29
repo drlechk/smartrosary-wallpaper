@@ -10,11 +10,11 @@
     { "id": "zywyrozaniec", "label": "Żywy Różaniec", "url": "img-240-png/zywyrozaniec.png" }
   ],
   "466": [
-    { "id": "pmkdus", "label": "PMK Düsseldorf", "url": "img-466-png/01_pmkdus.png" },
-    { "id": "fatima", "label": "Matka Boska Fatimska", "url": "img-466-png/02_fatima.png" },
-    { "id": "guadalupe", "label": "Matka Boska z Guadalupe", "url": "img-466-png/03_guadeloupe.png" },
-    { "id": "czestochowa", "label": "Matka Boska Częstochowska", "url": "img-466-png/04_chestochowa.png" },
-    { "id": "jezus", "label": "Jezus Miłosierny", "url": "img-466-png/05_jezus.png" },
-    { "id": "medjugorje", "label": "Matka Boska z Medjugorje", "url": "img-466-png/06_medjugorje.png" }
+    { "id": "pmkdus", "label": "PMK Düsseldorf", "url": "img-466-png/pmkdus.png" },
+    { "id": "fatima", "label": "Matka Boska Fatimska", "url": "img-466-png/fatima.png" },
+    { "id": "guadalupe", "label": "Matka Boska z Guadalupe", "url": "img-466-png/guadeloupe.png" },
+    { "id": "czestochowa", "label": "Matka Boska Częstochowska", "url": "img-466-png/chestochowa.png" },
+    { "id": "jezus", "label": "Jezus Miłosierny", "url": "img-466-png/jezus.png" },
+    { "id": "medjugorje", "label": "Matka Boska z Medjugorje", "url": "img-466-png/medjugorje.png" }
   ]
 }
