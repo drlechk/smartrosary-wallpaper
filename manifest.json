@@ -1,0 +1,20 @@
+{
+  "240": [
+    { "id": "rok2025", "label": "Rok Jubileuszowy 2025", "url": "img-240-png/rok2025.png" },
+    { "id": "jezus", "label": "Jezus Miłosierny", "url": "img-240-png/jezus.png" },
+    { "id": "fatima", "label": "Matka Boska Fatimska", "url": "img-240-png/fatima.png" },
+    { "id": "czestochowa", "label": "Matka Boska Częstochowska", "url": "img-240-png/czestochowa.png" },
+    { "id": "guadalupe", "label": "Matka Boska z Guadalupe", "url": "img-240-png/guadalupe.png" },
+    { "id": "medjugorje", "label": "Matka Boska z Medjugorje", "url": "img-240-png/medjugorje.png" },
+    { "id": "pmkdus", "label": "PMK Düsseldorf", "url": "img-240-png/pmkdus.png" },
+    { "id": "zywyrozaniec", "label": "Żywy Różaniec", "url": "img-240-png/zywyrozaniec.png" }
+  ],
+  "466": [
+    { "id": "pmkdus", "label": "PMK Düsseldorf", "url": "img-466-png/01_pmkdus.png" },
+    { "id": "fatima", "label": "Matka Boska Fatimska", "url": "img-466-png/02_fatima.png" },
+    { "id": "guadalupe", "label": "Matka Boska z Guadalupe", "url": "img-466-png/03_guadeloupe.png" },
+    { "id": "czestochowa", "label": "Matka Boska Częstochowska", "url": "img-466-png/04_chestochowa.png" },
+    { "id": "jezus", "label": "Jezus Miłosierny", "url": "img-466-png/05_jezus.png" },
+    { "id": "medjugorje", "label": "Matka Boska z Medjugorje", "url": "img-466-png/06_medjugorje.png" }
+  ]
+}
