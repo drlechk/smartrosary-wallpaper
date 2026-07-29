@@ -15,6 +15,7 @@
     { "id": "guadalupe", "label": "Matka Boska z Guadalupe", "url": "img-466-png/guadeloupe.png" },
     { "id": "czestochowa", "label": "Matka Boska Częstochowska", "url": "img-466-png/chestochowa.png" },
     { "id": "jezus", "label": "Jezus Miłosierny", "url": "img-466-png/jezus.png" },
-    { "id": "medjugorje", "label": "Matka Boska z Medjugorje", "url": "img-466-png/medjugorje.png" }
+    { "id": "medjugorje", "label": "Matka Boska z Medjugorje", "url": "img-466-png/medjugorje.png" },
+    { "id": "uczniowie-misjonarze", "label": "Uczniowie Misjonarze", "url": "img-466-png/uczniowie-misjonarze.png" }
   ]
 }
