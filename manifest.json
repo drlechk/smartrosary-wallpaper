@@ -18,5 +18,15 @@
     { "id": "jezus", "label": "Jezus Miłosierny", "url": "img-466-png/jezus.png" },
     { "id": "medjugorje", "label": "Matka Boska z Medjugorje", "url": "img-466-png/medjugorje.png" },
     { "id": "uczniowie-misjonarze", "label": "Uczniowie Misjonarze", "url": "img-466-png/uczniowie-misjonarze.png" }
+  ],
+  "368x448": [
+    { "id": "rok2025", "label": "Rok Jubileuszowy 2025", "url": "img-368x448-png/rok2025.png" },
+    { "id": "jezus", "label": "Jezus Miłosierny", "url": "img-368x448-png/jezus.png" },
+    { "id": "fatima", "label": "Matka Boska Fatimska", "url": "img-368x448-png/fatima.png" },
+    { "id": "czestochowa", "label": "Matka Boska Częstochowska", "url": "img-368x448-png/czestochowa.png" },
+    { "id": "guadalupe", "label": "Matka Boska z Guadalupe", "url": "img-368x448-png/guadalupe.png" },
+    { "id": "medjugorje", "label": "Matka Boska z Medjugorje", "url": "img-368x448-png/medjugorje.png" },
+    { "id": "pmkdus", "label": "PMK Düsseldorf", "url": "img-368x448-png/pmkdus.png" },
+    { "id": "uczniowie-misjonarze", "label": "Uczniowie Misjonarze", "url": "img-368x448-png/uczniowie-misjonarze.png" }
   ]
 }
